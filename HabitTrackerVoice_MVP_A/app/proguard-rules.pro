@@ -1,0 +1,2 @@
+-keep class org.apache.poi.** { *; }
+-dontwarn org.apache.commons.**

@@ -1,0 +1,15 @@
+
+<resources>
+    <string name="app_name">HabitTrackerVoice</string>
+    <string name="btn_dictate">Dictar</string>
+    <string name="btn_add">Añadir</string>
+    <string name="btn_export">Exportar Excel</string>
+    <string name="btn_pick_folder">Elegir carpeta</string>
+    <string name="hint_date">Fecha (DD/MM/YYYY)</string>
+    <string name="hint_entrante">Entrante</string>
+    <string name="hint_principal">Principal</string>
+    <string name="hint_postre">Postre</string>
+    <string name="hint_effort">Esfuerzo ejercicio (1–5)</string>
+    <string name="hint_sleep">Horas dormidas</string>
+    <string name="hint_reading">Lectura (min)</string>
+</resources>
